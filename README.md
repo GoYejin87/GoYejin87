@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!👋%20I'm%20yejin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yejin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
